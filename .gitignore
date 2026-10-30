@@ -21,7 +21,7 @@ trivy.sarif
 .aislop/agent/
 .DS_Store
 
-# Local environment (see .env.example; a real .env is never committed)
+# Local environment (see settings/.env.example; a real .env is never committed)
 .env
 .env.*
 !.env.example
